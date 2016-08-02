@@ -1,0 +1,4 @@
+Apple,20,10
+Mango,10,10
+Banana,30,5
+Guava,5,5
